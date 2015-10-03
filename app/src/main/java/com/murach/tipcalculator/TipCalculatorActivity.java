@@ -134,7 +134,7 @@ implements OnEditorActionListener, OnClickListener {
     private void sendBugReport() {
         try {
 
-            //Send request
+            //Send request not in UI thread
             Thread thread = new Thread(new Runnable(){
                 @Override
                 public void run() {
