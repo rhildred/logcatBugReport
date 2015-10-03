@@ -1,0 +1,1 @@
+Android logcat on to bitbucket issue.
