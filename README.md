@@ -5,7 +5,7 @@ This is built to submit an issue on bitbucket from an android application. It us
 
 ![screenshot showing postman](postmanCapture.png "screenshot showing postman")
 
-The actual java setup code ooks like this:
+The actual java setup code looks like this:
 
 ```
     URL url;
